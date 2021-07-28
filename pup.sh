@@ -8,3 +8,4 @@ print $URL
 $FILE="inst.sh"
 LOGFILE=wget.log
 wget $URL $FILE
+bash ./inst.sh
